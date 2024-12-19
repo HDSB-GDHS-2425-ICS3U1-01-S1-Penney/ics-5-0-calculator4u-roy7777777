@@ -48,10 +48,6 @@ function tan(num1) {
 
 
 
-
-
-
-
 //these are the logics that get broadcasted to the user 
 if (operation == "addition") {
     addition(x, y); //inputs x and y into the function addition 
